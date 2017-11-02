@@ -13,3 +13,4 @@ Note: this is a public document
 | Grishma Jena     | Meetups | |
 | Rajeshwari S     | Publish |    |
 | Rajeshwari S     | Mentor  |    | Academic
+| Manasi S     | Any  |    | Academic
